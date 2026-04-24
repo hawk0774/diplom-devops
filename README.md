@@ -18,18 +18,23 @@
  Prometheus - http://81.26.178.3/prometheus/
 
 #Ставим контейнер реджистри
+
  ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_13.png)
    
 #Запускаем terraform apply  --auto-approve
+
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_2.png)
 
 #Видим подтянутый state
+
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_4.png)
 
 #Видим наш каталог и динамичсекий инвентори
+
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_6.png)
 
 #Смотрим что создалось в консоли 
+
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_3.png)
 
 #Смотрим на vm
@@ -37,6 +42,7 @@
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot26.png)
 
 #Запускаем playbook
+
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot8.png)
 
 #Запрещаем анонимный доступ
@@ -44,20 +50,25 @@
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot27.png)
 
 #Смотрим на ALB и NLB, так же в созданный реджистри
+
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot5.png)
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot7.png)
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot9.png)
 
-# Щупаем кластер со своего компа
+# Щупаем кластер со своего ПК
+
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot10.png)
 
 # Смотрим насколько успешно натравлен на репозиторий ARGOCD
+
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot11.png)
 
 #Смотрим на приложение
+
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot1.png)
 
 # Вносим изменение в статическую страницу и добавляем упоминание о теге 2.0.0, затем пушим с этим же тэгом и видим цепочку, которая приведет к деплою новой версии.
+
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot17.png)
 
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot18.png)
