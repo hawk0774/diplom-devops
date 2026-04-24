@@ -39,52 +39,63 @@
 
 #Смотрим на vm
 
-![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot26.png)
-
-#Запускаем playbook
-
-![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot8.png)
-
-#Запрещаем анонимный доступ
-
-![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot27.png)
-
-#Смотрим на ALB и NLB, так же в созданный реджистри
-
-![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot5.png)
-![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot7.png)
-![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot9.png)
-
-# Щупаем кластер со своего ПК
-
-![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot10.png)
-
-# Смотрим насколько успешно натравлен на репозиторий ARGOCD
-
-![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot11.png)
-
-#Смотрим на приложение
-
-![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot1.png)
-
-# Вносим изменение в статическую страницу и добавляем упоминание о теге 2.0.0, затем пушим с этим же тэгом и видим цепочку, которая приведет к деплою новой версии.
-
-![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot17.png)
-
-![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot18.png)
-
-![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot19.png)
-
-![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot23.png)
-
-![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot20.png)
-
-![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot21.png)
-
-![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot22.png)
+![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_26.png)
 
 # Правила безопасности
 
-![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot24.png)
+![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_24.png)
 
-![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot25.png)
+![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_25.png)
+
+#Запускаем playbook
+
+![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_8.png)
+
+#Запрещаем анонимный доступ
+
+![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_27.png)
+
+#Смотрим на ALB и NLB, так же в созданный реджистри
+
+![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_5.png)
+![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_7.png)
+![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_9.png)
+
+# Щупаем кластер со своего ПК
+
+![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_10.png)
+
+# Смотрим насколько успешно натравлен на репозиторий ARGOCD
+
+![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_11.png)
+
+#Смотрим на приложение
+
+![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_1.png)
+
+# Вносим изменение в статическую страницу и добавляем упоминание о теге 2.0.0, затем пушим с этим же тэгом и видим цепочку, которая приведет к деплою новой версии.
+
+![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_17.png)
+
+![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_18.png)
+
+![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_19.png)
+
+![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_23.png)
+
+![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_20.png)
+
+![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_21.png)
+
+![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_22.png)
+
+#Смотрим на grafana и prometheus
+
+![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_12.png)
+
+![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_14.png)
+
+![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_15.png)
+
+
+
