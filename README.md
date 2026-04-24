@@ -17,19 +17,19 @@
  APP - http://81.26.178.3/app
  Prometheus - http://81.26.178.3/prometheus/
 
-#Ставим контейнер реджистри
+# Ставим контейнер реджистри
 
  ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_13.png)
    
-#Запускаем terraform apply  --auto-approve
+# Запускаем terraform apply  --auto-approve
 
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_2.png)
 
-#Видим подтянутый state
+# Видим подтянутый state
 
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_4.png)
 
-#Видим наш каталог и динамичсекий инвентори
+# Видим наш каталог и динамичсекий инвентори
 
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_6.png)
 
@@ -37,7 +37,7 @@
 
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_3.png)
 
-#Смотрим на vm
+# Смотрим на vm
 
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_26.png)
 
@@ -47,15 +47,15 @@
 
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_25.png)
 
-#Запускаем playbook
+# Запускаем playbook
 
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_8.png)
 
-#Запрещаем анонимный доступ
+# Запрещаем анонимный доступ
 
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_27.png)
 
-#Смотрим на ALB и NLB, так же в созданный реджистри
+# Смотрим на ALB и NLB, так же в созданный реджистри
 
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_5.png)
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_7.png)
@@ -69,7 +69,7 @@
 
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_11.png)
 
-#Смотрим на приложение
+# Смотрим на приложение
 
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_1.png)
 
@@ -89,7 +89,7 @@
 
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_22.png)
 
-#Смотрим на grafana и prometheus
+# Смотрим на grafana и prometheus
 
 ![alt text](https://raw.githubusercontent.com/hawk0774/diplom-devops/main/Screenshot_12.png)
 
