@@ -1,1 +1,1 @@
-# diplom-devops
+# Дипломный практикум в Yandex.Cloud
